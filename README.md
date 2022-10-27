@@ -1,2 +1,3 @@
 # google-keep-clone
-Created with CodeSandbox
+
+Simple React app to take notes (Google Keep clone)
